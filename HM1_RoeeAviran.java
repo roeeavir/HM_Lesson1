@@ -1,8 +1,6 @@
 import javax.swing.JOptionPane;
 
 public class HM1_RoeeAviran {
-/*Name: Roee Aviran
-ID: 316492644 */
 	
 	public static void main(String[] args) {
 		String player1 = JOptionPane.showInputDialog("Enter Name Of Player 1");
